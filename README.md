@@ -1,2 +1,2 @@
-# CNN_recongnize_vertification_code_based_on_tensorflow
+# CNN_recongnize_vertification_code
 本项目的验证码由captcha生成，基于tensorflow框架下的CNN网络训练模型，能识别数字与大小写字母，准确率达92%
